@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
+    background-color: #282D35;
 }
 header {
     height: 90px;
@@ -21,4 +22,29 @@ nav > h1 {
     font-weight: 700;
     font-size: 1.4rem;
     color: #61DAFB;
+}
+main {
+    padding-left: 25px;
+    color: #fff;
+    background-image: url(/react-gray.svg);
+    background-repeat: no-repeat;
+    background-position: calc(100% + 125px) 75%;
+    background-size: 250px;
+}
+@media (min-width:825px){
+    main{
+        background-position-x: center;
+    }
+}
+main > h2 {
+    font-weight: 700;
+    font-size: 2.4rem;
+}
+main > ul > li {
+    padding-bottom: 16px;
+    font-size: 1rem;
+}
+main > ul > li::marker{
+    color: #61DAFB;
+    font-size: 1.2rem;
 }
