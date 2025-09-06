@@ -1,5 +1,10 @@
 export default function Header(){
     return (
-        <h1>this is header</h1>
+        <header>
+            <nav>
+                <img src="/react.svg" alt="react logo" />
+                <h1>React Facts</h1>
+            </nav>
+        </header>
     )
 }
