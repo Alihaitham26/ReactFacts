@@ -1,12 +1,15 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# react facts project
+## About the project
+it is a sample React project to make a static page give some facts about react 
+the mian purpose to this project is to learn jsx and how to use it and who to integreate css with jsx 
+## ✨ Features
+- some facts about react
+- usage of sementic html
+## 🛠️ Built With
+- React  
+- vite
+## 🖼️ Screenshots
+![page Screenshot](./snapshot/main.png)
+## 👷‍♂️ Author
+- name: Ali Haitham
+- linkedin: [Ali Haitham](www.linkedin.com/in/ali-haitham-a23901232)
